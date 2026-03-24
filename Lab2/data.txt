@@ -1,0 +1,10 @@
+3
+fruit
+apple
+color
+red
+animal
+dog
+animal
+color
+exit
